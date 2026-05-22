@@ -44,6 +44,7 @@ I experimented with three different deep learning approaches:
 
 3. **AST (Audio Spectrogram Transformer)**  
    — Used a transformer-based model pre-trained on audio data for better performance
+   --- got the best result by using AST, i got approx 0.91 on test data
 
 ---
 
