@@ -59,6 +59,15 @@ I experimented with three different deep learning approaches:
 - `genres_stems/` → Clean instrument stems (drums, vocals, bass, others)
 - `ESC-50-master/` → Noise samples for augmentation
 - `mashups/` → Noisy test files (3020 samples)
+- ## 📥 Dataset
+
+The dataset is very large (~26 GB). It is not stored in this repository.
+
+### How to Download:
+- Download the full dataset from **Kaggle**:  
+  https://www.kaggle.com/competitions/jan-2026-dl-gen-ai-project/data
+
+
 
 ---
 
